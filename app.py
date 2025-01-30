@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQOgI5cAnK6fxaUSHXCQ0YDwLVDU5D4l63Ww&sg", caption="AI-Powered Streamlit App")
+st.image("https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/14202/production/_108243428_gettyimages-871148930.jpg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
