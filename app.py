@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://www.fujitsu.com/global/imagesgig5/ai-banner-800x450_tcm100-7204059_tcm100-6286607-32.jpg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
